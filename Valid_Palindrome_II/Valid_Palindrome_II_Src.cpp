@@ -17,9 +17,10 @@ public:
             RAlphanumeric = getAlphanumeric(s[rightPtr]);
             LAlphanumeric = getAlphanumeric(s[leftPtr]);
 
-            //compare the lower case left and right characters
+            ///check if the left and right characters are alphanumeric
             if(RAlphanumeric != 0 && LAlphanumeric != 0)
             {
+                //compare the lower case left and right characters
                 if(RAlphanumeric != LAlphanumeric)
                 {
                     //try to skip one character from the left 
