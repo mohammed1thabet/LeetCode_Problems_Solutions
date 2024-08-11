@@ -28,7 +28,7 @@ Constraints:<br>
 s consists of lowercase English letters.<br>
 
 ## Solution
-This problem is the 2nd par of a problem we have solved before(check part 1 solution, you can find it in the repository)<br>
+This problem is the 2nd part of a problem we have solved before(check part 1 solution, you can find it in the repository)<br>
 The solution is almost the same as the previous part but with some additions<br>
 
 ### Approach (Two pointers algorithm)
