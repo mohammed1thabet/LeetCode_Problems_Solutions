@@ -19,7 +19,7 @@ Input: nums = [1], head = [1,2,1,2,1,2]<br>
 
 Output: [2,2,2]<br>
 
-Explanation:
+Explanation:<br>
 ![alt text](linkedlistexample1.png)<br>
 Remove the nodes with value 1.<br><br>
 
